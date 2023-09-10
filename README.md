@@ -1,6 +1,9 @@
 # S&P 500 Index Fund Price Predictor
 
 Developer: Shuaib Ahmed
+
+[View The Project Here!](/Stock Market Predictor 3.md)
+
 ## Overview
 
 The S&P 500 Index Fund Price Predictor is a project that leverages the Random Forest algorithm to forecast the price of the S&P 500 index fund. The project includes data preprocessing, splitting the dataset into training and testing sets, training the Random Forest model, and backtesting the model's accuracy. The final accuracy achieved is approximately 0.56, indicating its potential for predicting S&P 500 index fund prices.
