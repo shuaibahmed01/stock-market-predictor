@@ -2,7 +2,7 @@
 
 Developer: Shuaib Ahmed
 
-![View The Project Here!](/Stock Market Predictor 3.md)
+[View The Project Here!](/stockMarketPredictor.md)
 
 ## Overview
 
